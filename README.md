@@ -4,6 +4,9 @@ Mandelbrot-gtk is a code which puts the mathematical equation of the Mandelbrot 
 This edited version of the Mandelbrot set has been modified by adding the feature for drag and drop zooming, to allow for more precise
 and more user controlled zooming.
 
+# Changelog
+8.21.23: Added instantenous zooming to the drag and drop feature.
+
 Mandelbrot v 0.3.1                                                     
 Copyright (C) 2010 Lexif Systems, Inc.                                        
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html> 
