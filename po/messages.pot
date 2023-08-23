@@ -1,0 +1,721 @@
+msgid "Min-Realpart:"
+msgstr ""
+
+msgid "Max-Realpart:"
+msgstr ""
+
+msgid "Min-Imag.part:"
+msgstr ""
+
+msgid "Max-Imag.part:"
+msgstr ""
+
+msgid "Dendrit"
+msgstr ""
+
+msgid "San-Marco-Dragon"
+msgstr ""
+
+msgid "Julia-Dragon"
+msgstr ""
+
+msgid "Fatou-Set"
+msgstr ""
+
+msgid "Douady rabbit"
+msgstr ""
+
+msgid "Misiurewicz-Point"
+msgstr ""
+
+msgid "Mandelbrot- / Juliaset"
+msgstr ""
+
+#, c-format
+msgid " Mandelbrotset [%0.2fs] "
+msgstr ""
+
+#, c-format
+msgid "Juliaset [%0.2fs]"
+msgstr ""
+
+msgid "Rendering the Mandelbrotset.."
+msgstr ""
+
+msgid "Rendering the Juliaset.."
+msgstr ""
+
+msgid "Complex plane"
+msgstr ""
+
+msgid "Renderdata"
+msgstr ""
+
+msgid "Degree of Mandelbrotset:"
+msgstr ""
+
+msgid "I_terationdepth"
+msgstr ""
+
+msgid "_Juliaset:"
+msgstr ""
+
+msgid "Constante j"
+msgstr ""
+
+msgid "_Realpart:"
+msgstr ""
+
+msgid "_Imag.part:"
+msgstr ""
+
+msgid "Get j from the _Mandelbrotset"
+msgstr ""
+
+msgid " _Render "
+msgstr ""
+
+msgid " _Stop "
+msgstr ""
+
+msgid " _Reset "
+msgstr ""
+
+msgid " _Quit "
+msgstr ""
+
+msgid "The renderprocess has been interrupted. Continue or restart process?"
+msgstr ""
+
+msgid " _Continue"
+msgstr ""
+
+msgid "_Restart"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "Save as _XML"
+msgstr ""
+
+msgid "xml-Files"
+msgstr ""
+
+msgid "_Option"
+msgstr ""
+
+msgid "Retain aspect ratio"
+msgstr ""
+
+msgid "Adjust complex _plane to imagesize"
+msgstr ""
+
+msgid "Set color"
+msgstr ""
+
+msgid "_Color-Algorithm"
+msgstr ""
+
+msgid "_Configuration"
+msgstr ""
+
+msgid "?"
+msgstr ""
+
+msgid "_Convergent set"
+msgstr ""
+
+msgid "_Divergent set"
+msgstr ""
+
+msgid "Color of the convergent set"
+msgstr ""
+
+msgid "Color of the divergent set"
+msgstr ""
+
+msgid "Save.."
+msgstr ""
+
+msgid "Save as.."
+msgstr ""
+
+msgid "_Filename:"
+msgstr ""
+
+msgid "Render - Option"
+msgstr ""
+
+msgid "Imageoption"
+msgstr ""
+
+msgid "Width (in Pixel):"
+msgstr ""
+
+msgid "Height (in Pixel):"
+msgstr ""
+
+msgid "Reload _values"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Adjust complexplane"
+msgstr ""
+
+msgid ""
+"Please wait..\n"
+"Rendering image..."
+msgstr ""
+
+msgid "Saved Image to file."
+msgstr ""
+
+msgid "Rendering was aborted by user."
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "Abort rendering?"
+msgstr ""
+
+#, c-format
+msgid "Error: Can't write file \"%s\"."
+msgstr ""
+
+msgid "Directory doesn't exist."
+msgstr ""
+
+msgid "Can't save file. Permission denied."
+msgstr ""
+
+msgid "You must enter a valid filename."
+msgstr ""
+
+#, c-format
+msgid "The File \"%s\" already exists. Overwrite?"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Complex Plane (Std)"
+msgstr ""
+
+msgid ""
+"Complex Plane\n"
+"(Reset-Werte)"
+msgstr ""
+
+msgid "Complex Plane (Mb)"
+msgstr ""
+
+msgid "Complex Plane of the Mandelbortset: "
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Default Values"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Zoomfactor"
+msgstr ""
+
+msgid "Zoomfactor in percent:"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Number of Render-Threads:"
+msgstr ""
+
+msgid "Iterationdepth"
+msgstr ""
+
+msgid "Iterationdepth of \"Get j from the Mandelbrotset\":"
+msgstr ""
+
+msgid "Focus color"
+msgstr ""
+
+msgid "Color of zoom-rectangle:"
+msgstr ""
+
+#, c-format
+msgid "\"%s\" is not a valid Number"
+msgstr ""
+
+msgid "The minimum realpart must be smaller than the maximum realpart."
+msgstr ""
+
+msgid ""
+"The minimum imaginarypart must be smaller than the maximum imaginarypart."
+msgstr ""
+
+#, c-format
+msgid "Please enter a valid number for the iterationdepth. (Between %d and %d)"
+msgstr ""
+
+#, c-format
+msgid ""
+"Please enter a valid number for the degree of the Mandelbrotset. (Between %f "
+"and %f)"
+msgstr ""
+
+msgid "Blue constants"
+msgstr ""
+
+msgid "Convergent / Divergent Set"
+msgstr ""
+
+msgid "Dixius Algo Grey"
+msgstr ""
+
+msgid "RBG-S5"
+msgstr ""
+
+msgid "altern"
+msgstr ""
+
+msgid "blues"
+msgstr ""
+
+msgid "bud2"
+msgstr ""
+
+msgid "bud3"
+msgstr ""
+
+msgid "bud4"
+msgstr ""
+
+msgid "bud5"
+msgstr ""
+
+msgid "bud6"
+msgstr ""
+
+msgid "bud7"
+msgstr ""
+
+msgid "Carlson1"
+msgstr ""
+
+msgid "chroma"
+msgstr ""
+
+msgid "damien1"
+msgstr ""
+
+msgid "damien2"
+msgstr ""
+
+msgid "damien3"
+msgstr ""
+
+msgid "damien4"
+msgstr ""
+
+msgid "damien5"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "droz08"
+msgstr ""
+
+msgid "droz10"
+msgstr ""
+
+msgid "droz11"
+msgstr ""
+
+msgid "droz12"
+msgstr ""
+
+msgid "droz13"
+msgstr ""
+
+msgid "droz14"
+msgstr ""
+
+msgid "droz15"
+msgstr ""
+
+msgid "droz21"
+msgstr ""
+
+msgid "droz22"
+msgstr ""
+
+msgid "droz23"
+msgstr ""
+
+msgid "droz28"
+msgstr ""
+
+msgid "droz31"
+msgstr ""
+
+msgid "droz33"
+msgstr ""
+
+msgid "droz34"
+msgstr ""
+
+msgid "droz35"
+msgstr ""
+
+msgid "droz36"
+msgstr ""
+
+msgid "droz38"
+msgstr ""
+
+msgid "droz39"
+msgstr ""
+
+msgid "droz40"
+msgstr ""
+
+msgid "droz44"
+msgstr ""
+
+msgid "droz46"
+msgstr ""
+
+msgid "droz49"
+msgstr ""
+
+msgid "droz52"
+msgstr ""
+
+msgid "droz54"
+msgstr ""
+
+msgid "droz56"
+msgstr ""
+
+msgid "droz60"
+msgstr ""
+
+msgid "droz62"
+msgstr ""
+
+msgid "drozdis1"
+msgstr ""
+
+msgid "firestrm"
+msgstr ""
+
+msgid "froth316"
+msgstr ""
+
+msgid "froth3"
+msgstr ""
+
+msgid "froth616"
+msgstr ""
+
+msgid "froth6"
+msgstr ""
+
+msgid "Gallet01"
+msgstr ""
+
+msgid "Gallet02"
+msgstr ""
+
+msgid "Gallet03"
+msgstr ""
+
+msgid "Gallet04"
+msgstr ""
+
+msgid "Gallet05"
+msgstr ""
+
+msgid "Gallet06"
+msgstr ""
+
+msgid "Gallet07"
+msgstr ""
+
+msgid "Gallet08"
+msgstr ""
+
+msgid "Gallet09"
+msgstr ""
+
+msgid "Gallet10"
+msgstr ""
+
+msgid "Gallet11"
+msgstr ""
+
+msgid "Gallet12"
+msgstr ""
+
+msgid "Gallet13"
+msgstr ""
+
+msgid "Gallet14"
+msgstr ""
+
+msgid "Gallet15"
+msgstr ""
+
+msgid "Gallet16"
+msgstr ""
+
+msgid "Gallet17"
+msgstr ""
+
+msgid "Gallet18"
+msgstr ""
+
+msgid "gamma1"
+msgstr ""
+
+msgid "gamma2"
+msgstr ""
+
+msgid "glasses1"
+msgstr ""
+
+msgid "glasses2"
+msgstr ""
+
+msgid "goodega"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "grey"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "headache"
+msgstr ""
+
+msgid "landscap"
+msgstr ""
+
+msgid "Lindaa01"
+msgstr ""
+
+msgid "Lindaa02"
+msgstr ""
+
+msgid "Lindaa03"
+msgstr ""
+
+msgid "Lindaa04"
+msgstr ""
+
+msgid "Lindaa05"
+msgstr ""
+
+msgid "Lindaa06"
+msgstr ""
+
+msgid "Lindaa07"
+msgstr ""
+
+msgid "Lindaa08"
+msgstr ""
+
+msgid "Lindaa09"
+msgstr ""
+
+msgid "Lindaa10"
+msgstr ""
+
+msgid "Lindaa11"
+msgstr ""
+
+msgid "Lindaa12"
+msgstr ""
+
+msgid "Lindaa14"
+msgstr ""
+
+msgid "Lindaa15"
+msgstr ""
+
+msgid "Lindaa16"
+msgstr ""
+
+msgid "Lindaa17"
+msgstr ""
+
+msgid "lkmtch00"
+msgstr ""
+
+msgid "lkmtch01"
+msgstr ""
+
+msgid "lkmtch02"
+msgstr ""
+
+msgid "lkmtch03"
+msgstr ""
+
+msgid "lkmtch04"
+msgstr ""
+
+msgid "lkmtch05"
+msgstr ""
+
+msgid "lkmtch06"
+msgstr ""
+
+msgid "lkmtch07"
+msgstr ""
+
+msgid "lkmtch08"
+msgstr ""
+
+msgid "lkmtch09"
+msgstr ""
+
+msgid "lkmtch10"
+msgstr ""
+
+msgid "lkmtch11"
+msgstr ""
+
+msgid "lkmtch12"
+msgstr ""
+
+msgid "lkmtch13"
+msgstr ""
+
+msgid "lkmtch14"
+msgstr ""
+
+msgid "lkmtch15"
+msgstr ""
+
+msgid "lkmtch16"
+msgstr ""
+
+msgid "lkmtch17"
+msgstr ""
+
+msgid "lkmtch18"
+msgstr ""
+
+msgid "lkmtch19"
+msgstr ""
+
+msgid "lyapunov"
+msgstr ""
+
+msgid "Morgan1"
+msgstr ""
+
+msgid "Morgan2"
+msgstr ""
+
+msgid "Morgan3"
+msgstr ""
+
+msgid "neon"
+msgstr ""
+
+msgid "paintjet"
+msgstr ""
+
+msgid "royal"
+msgstr ""
+
+msgid "Skydye01"
+msgstr ""
+
+msgid "Skydye02"
+msgstr ""
+
+msgid "Skydye03"
+msgstr ""
+
+msgid "Skydye04"
+msgstr ""
+
+msgid "Skydye05"
+msgstr ""
+
+msgid "Skydye06"
+msgstr ""
+
+msgid "Skydye07"
+msgstr ""
+
+msgid "Skydye08"
+msgstr ""
+
+msgid "Skydye09"
+msgstr ""
+
+msgid "Skydye10"
+msgstr ""
+
+msgid "Skydye11"
+msgstr ""
+
+msgid "Skydye12"
+msgstr ""
+
+msgid "topo"
+msgstr ""
+
+msgid "volcano"
+msgstr ""
+
+msgid "Wizzl011"
+msgstr ""
+
+msgid "Wizzl012"
+msgstr ""
+
+msgid "Wizzl013"
+msgstr ""
+
+msgid "Wizzl014"
+msgstr ""
+
+msgid "Wizzl015"
+msgstr ""
+
+msgid "Wizzl016"
+msgstr ""
+
+msgid "Wizzl017"
+msgstr ""
+
+msgid "Wizzl018"
+msgstr ""
+
+msgid "Wizzl019"
+msgstr ""
+
+msgid "Wizzl020"
+msgstr ""

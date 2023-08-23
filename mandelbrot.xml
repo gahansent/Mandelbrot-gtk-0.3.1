@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mandelbrot_julia_set>
+  <!-- data for rendering -->
+  <renderdata itermax="100" degree="2" type="mandelbrot-set">
+    <complexplane>
+      <minre>-2.260589403974</minre>
+      <maxre>1.262589403974</maxre>
+      <minim>-1.3300000000000001</minim>
+      <maxim>1.3300000000000001</maxim>
+    </complexplane>
+    <const_j>
+      <repart_j>0</repart_j>
+      <impart_j>0</impart_j>
+    </const_j>
+  </renderdata>
+  <!-- windowsize -->
+  <size>
+    <width>709</width>
+    <height>430</height>
+  </size>
+  <preference>
+    <color algorithmen="0">
+      <convergent-color red="0" green="0" blue="0"/>
+      <divergent-color red="65535" green="65535" blue="65535"/>
+      <focus-color red="65535" green="65535" blue="65535"/>
+    </color>
+    <!-- zooming proportional -->
+    <zoom-prop>1</zoom-prop>
+    <zoom-factor>0.65000000000000002</zoom-factor>
+    <get_j-itermax>100</get_j-itermax>
+    <!-- number of render threads -->
+    <threadscount>4</threadscount>
+    <!-- default vaules for reset -->
+    <default-complexplane>
+      <minre>-1.167</minre>
+      <maxre>1.167</maxre>
+      <minim>-1.5</minim>
+      <maxim>1.5</maxim>
+    </default-complexplane>
+    <default-mandelbrot-complexplane>
+      <minre>-2.165</minre>
+      <maxre>1.167</maxre>
+      <minim>-1.3300000000000001</minim>
+      <maxim>1.3300000000000001</maxim>
+    </default-mandelbrot-complexplane>
+  </preference>
+</mandelbrot_julia_set>
