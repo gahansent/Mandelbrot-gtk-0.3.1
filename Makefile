@@ -184,6 +184,4 @@ xgettext:
 depend:
 	gcc -MM -E  $(SOURCES) | awk '{ printf("$(OUT_DIR)/%s\n", $$0); }' > ./.depend
 
-include .depend
-
 .PHONY: all clean tarball zip depend install uninstall xgettext depend
